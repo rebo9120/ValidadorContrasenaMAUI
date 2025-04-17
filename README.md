@@ -23,7 +23,7 @@ _CIBERINFRAESTRUCTURA 2025-A_
 ## 🧪 Capturas de pantalla
 
 ### 🟣 Pantalla inicial
-![Pantalla inicial](img/imagen1.png)
+![Pantalla inicial](imagen1.png)
 
 ### ❌ Contraseñas no coinciden
 ![Contraseñas no coinciden](img/imagen2.png)
