@@ -73,3 +73,15 @@ private void OnValidatePasswordClicked(object sender, EventArgs e)
         DisplayAlert("Inválido", "Debe tener al menos 8 caracteres, una mayúscula, una minúscula y un número.", "OK");
     }
 }
+📦 Tecnologías usadas
+	•	.NET MAUI
+	•	C#
+	•	XAML
+	•	Visual Studio para Mac
+
+⸻
+
+📝 Notas
+
+Este proyecto fue creado como parte del warm-up para la clase de Ciberinfraestructura.
+Me encantó agregar un fondo adorable de gatito 😺 para hacerlo más amigable.
