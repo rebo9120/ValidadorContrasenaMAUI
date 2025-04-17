@@ -26,13 +26,13 @@ _CIBERINFRAESTRUCTURA 2025-A_
 ![Pantalla inicial](imagen1.png)
 
 ### ❌ Contraseñas no coinciden
-![Contraseñas no coinciden](img/imagen2.png)
+![Contraseñas no coinciden](imagen2.png)
 
 ### ⚠️ Contraseña inválida
-![Contraseña inválida](img/imagen3.png)
+![Contraseña inválida](imagen3.png)
 
 ### ✅ Validación exitosa
-![Validación exitosa](img/imagen4.png)
+![Validación exitosa](imagen4.png)
 
 ---
 
